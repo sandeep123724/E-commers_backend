@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="604c27ab-8f2e-47fc-8437-8a5e9721d381" name="Changes" comment="validation.py">
-      <change afterPath="$PROJECT_DIR$/customers.py" afterDir="false" />
+    <list default="true" id="604c27ab-8f2e-47fc-8437-8a5e9721d381" name="Changes" comment="customer.py">
+      <change afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="customers.py" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -54,7 +59,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "product.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781100227454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="customer.py">
+      <option name="closed" value="true" />
+      <created>1781189604097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781189604097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="validation.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="validation.py" />
+    <MESSAGE value="customer.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="customer.py" />
   </component>
 </project>
