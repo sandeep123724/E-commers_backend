@@ -21,7 +21,7 @@ A simple and efficient REST API backend for managing an e-commerce platform. Bui
 
 Framework: Flask
 Language: Python 3.8+
-Database: (Add your DB: MySQL, MongoDB, PostgreSQL, etc.)
+Database: (Add your DB:sqlite3 etc.)
 Others: Flask-SQLAlchemy, python-dotenv
 
 
@@ -41,7 +41,7 @@ Git
 Clone the repository
 
 
-bashgit clone https://github.com/yourusername/ecommerce-backend.git
+bashgit clone https://github.com/sandeep123724/ecommerce-backend.git
 cd ecommerce-backend
 
 
