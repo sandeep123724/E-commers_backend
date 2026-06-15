@@ -41,7 +41,7 @@ Git
 Clone the repository
 
 
-bashgit clone https://github.com/yourusername/ecommerce-backend.git
+bashgit clone https://github.com/sandeep123724/ecommerce-backend.git
 cd ecommerce-backend
 
 
